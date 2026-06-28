@@ -45,17 +45,16 @@ structure, and multi-body constrained assembly.
 | `Parts/` | Individual SolidWorks part files (.SLDPRT) |
 | `Assembly/` | Sub-assemblies and final top-level assembly (.SLDASM) |
 | `Source/` | Source reference drawing PDFs |
-| `drawing.pdf` | Engineering drawing with orthographic views and BOM |
-| `report.pdf` | Project report |
-| `render.png` | Assembly render |
-| `animation.mp4` | Motion animation video |
+| `Final_drawing.pdf` | Engineering drawing with orthographic views and BOM |
+| `ME202_Project_Report_2024MEB1375.pdf` | Project report |
+| `Isometric_view.png` | Assembly render |
+| `Project_animation.mp4` | Motion animation video |
 
 ---
 
 ## Engineering Drawing
 
-The drawing includes orthographic views (front, top, side), a Bill of Materials 
-with item balloons, and a standard title block.
+The drawing includes orthographic views (front, top, side), a Bill of Materials, and a standard title block.
 
 ---
 
