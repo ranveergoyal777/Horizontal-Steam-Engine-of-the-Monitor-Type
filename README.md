@@ -1,6 +1,6 @@
 # Horizontal Steam Engine (Monitor Type) — SolidWorks Assembly
 
-![Assembly](render.png)
+![Assembly](Isometric view.png)
 
 ---
 
@@ -21,9 +21,9 @@ structure, and multi-body constrained assembly.
 
 ## Demo
 
-![Render](render.png)
+![Render](Isometric view.png)
 
-[Watch Animation](animation.mp4)
+[Watch Animation](Project Animation.mp4)
 
 ---
 
