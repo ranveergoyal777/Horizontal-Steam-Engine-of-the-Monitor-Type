@@ -15,7 +15,7 @@ core mechanical engineering concepts including slider–crank kinematics, load-b
 structure, and multi-body constrained assembly.
 
 **Course:** ME202 – Machine Drawing  
-**Institution:** IIT Ropar (Indian Institute of Technology, Ropar)
+**Institution:** IIT Ropar (Indian Institute of Technology, Ropar)  
 **Software:** SolidWorks 2021
 
 ---
