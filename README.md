@@ -16,6 +16,7 @@ structure, and multi-body constrained assembly.
 
 **Course:** ME202 – Machine Drawing  
 **Institution:** IIT Ropar (Indian Institute of Technology, Ropar)
+**Software:** SolidWorks 2021
 
 ---
 
